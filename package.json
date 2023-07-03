@@ -4,7 +4,6 @@
   "licence": "MIT",
   "version": "1.7.0",
   "private": false,
-    "homepage": "https://printmetais.com.br/teste3/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
